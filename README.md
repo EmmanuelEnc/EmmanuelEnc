@@ -4,7 +4,7 @@
 
 - [Lab01](https://github.com/EmmanuelEnc/ActiveDirectoryLab)
 
-<h2> Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - [CompTIA Security +](https://www.youtube.com/vido)
 - [CompTIA A +](https://www.youtube.com/vido)
