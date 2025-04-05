@@ -1,7 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Emmanuel! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/EmmanuelEnc/lab)
+
+<h2> Certifications</h2>
+
+- [CompTIA Security +](https://www.youtube.com/vido)
+- [CompTIA A +](https://www.youtube.com/vido)
+    
+<h2>📺 YouTube Videos</h2>
+
+- [Active Directory lab tutorial](https://www.youtube.com/vido)
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/emmanuel-encarnacion-h/
+
 
 <!--
-**EmmanuelEnc/EmmanuelEnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
