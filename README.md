@@ -3,11 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Lab01](https://github.com/EmmanuelEnc/ActiveDirectoryLab)
-
-<h2>📜 Certifications</h2>
-
-- [CompTIA Security +](https://www.youtube.com/vido)
-- [CompTIA A +](https://www.youtube.com/vido)
     
 <h2>📺 YouTube Videos</h2>
 
