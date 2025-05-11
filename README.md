@@ -6,7 +6,7 @@
     
 <h2>📺 YouTube Videos</h2>
 
-- [TUTORIAL01: SIEM-THREAT-MAP](https://www.youtube.com/vido)
+- [Tutorial01: SIEM-THREAT-MAP](https://www.youtube.com/vido)
 
 <h2> 🤳 Connect with me:</h2>
 
