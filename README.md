@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Lab01](https://github.com/EmmanuelEnc/ActiveDirectoryLab)
+- [Lab00](https://github.com/EmmanuelEnc/ActiveDirectoryLab)
+- [Lab01:SIEM-CyberThreatMap](https://github.com/EmmanuelEnc/SIEM-Cyber-Threat-Map)
     
 <h2>📺 YouTube Videos</h2>
 
