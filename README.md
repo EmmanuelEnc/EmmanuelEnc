@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Lab00](https://github.com/EmmanuelEnc/ActiveDirectoryLab)
 - [Lab01:SIEM-THREAT-MAP](https://github.com/EmmanuelEnc/SIEM-THREAT-MAP)
     
 <h2>📺 YouTube Videos</h2>
 
-- [Active Directory lab tutorial](https://www.youtube.com/vido)
+- [SIEM-THREAT-MAP lAB TUTORIAL](https://www.youtube.com/vido)
 
 <h2> 🤳 Connect with me:</h2>
 
