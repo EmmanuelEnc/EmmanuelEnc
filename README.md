@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Lab01:SIEM-THREAT-MAP](https://github.com/EmmanuelEnc/SIEM-THREAT-MAP)
+- [Lab01: SIEM-THREAT-MAP](https://github.com/EmmanuelEnc/SIEM-THREAT-MAP)
     
 <h2>📺 YouTube Videos</h2>
 
