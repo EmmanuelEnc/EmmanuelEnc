@@ -1,12 +1,14 @@
 <h1>Hi, I'm Emmanuel! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- [Lab01: SIEM-THREAT-MAP](https://github.com/EmmanuelEnc/SIEM-THREAT-MAP)
+- [Lab01: siem-threat-map](https://github.com/EmmanuelEnc/SIEM-THREAT-MAP)
+- [Lab02: gns3-azure-setup](https://github.com/EmmanuelEnc/gns3-azure-setup)
     
 <h2>📺 YouTube Videos</h2>
 
 - [Tutorial01: SIEM-THREAT-MAP](https://www.youtube.com/vido)
+- [Tutorial02: gns3-azure-setup](https://www.youtube.com/vido)
 
 <h2> 🤳 Connect with me:</h2>
 
